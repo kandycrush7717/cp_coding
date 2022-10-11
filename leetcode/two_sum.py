@@ -1,3 +1,10 @@
+'''
+    * Author : VenkataPraveen Kandimalla
+    * Date : 2022-10-11
+    * Time : 4:08 p.m.
+    * Question :
+    * Example :
+'''
 import sys
 if __name__ == '__main__':
     nums = [int(x) for x in sys.stdin.readline().rstrip('\n').split()]
