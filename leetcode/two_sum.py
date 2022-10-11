@@ -2,8 +2,14 @@
     * Author : VenkataPraveen Kandimalla
     * Date : 2022-10-11
     * Time : 4:08 p.m.
-    * Question :
+    * Question : https://leetcode.com/problems/two-sum/
+        Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+        You may assume that each input would have exactly one solution, and you may not use the same element twice.
+        You can return the answer in any order.
     * Example :
+        Input: nums = [2,7,11,15], target = 9
+        Output: [0,1]
+        Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
 '''
 import sys
 if __name__ == '__main__':
