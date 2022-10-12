@@ -11,6 +11,7 @@
         123
 '''
 import sys
+
 if __name__=='__main__':
     n=sys.stdin.readline().rstrip('\n')
     sys.stdout.write(str(n)+'\n')
