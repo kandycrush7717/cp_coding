@@ -28,3 +28,4 @@ if __name__=='__main__':
             sys.stdout.write('>\n')
         elif a==b:
             sys.stdout.write('=\n')
+
