@@ -2,7 +2,7 @@
     * Author : VenkataPraveen Kandimalla
     * Date : 2022-10-12
     * Time : 12:41 a.m.
-    * Question :
+    * Question :(https://www.codechef.com/LP0TO101/problems/START01)
         Write a program that accepts a number, n, and outputs the same.
     * Example :
         Sample Input
