@@ -2,7 +2,7 @@
     * Author : VenkataPraveen Kandimalla
     * Date : 2022-10-19
     * Time : 2:27 p.m.
-    * Question :
+    * Question :(https://www.codechef.com/LP1TO201/problems/HOOPS)
         You and your friend are playing a game with hoops. There are NN hoops (where NN is odd) in a row.
         You jump into hoop 11, and your friend jumps into hoop NN. Then you jump into hoop 22, and after that,
         your friend jumps into hoop N-1N−1, and so on.
