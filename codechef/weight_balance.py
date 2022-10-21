@@ -2,7 +2,7 @@
     * Author : VenkataPraveen Kandimalla
     * Date : 2022-10-20
     * Time : 11:50 p.m.
-    * Question :
+    * Question :(https://www.codechef.com/LP1TO201/problems/WEIGHTBL)
         No play and eating all day makes your belly fat. This happened to Chef during the lockdown. His weight before
         the lockdown was w_1kg (measured on the most accurate hospital machine) and after MM months of lockdown,
         when he measured his weight at home (on a regular scale, which can be inaccurate), he got the result that
