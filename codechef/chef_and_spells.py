@@ -2,7 +2,7 @@
     * Author : VenkataPraveen Kandimalla
     * Date : 2022-10-20
     * Time : 10:46 p.m.
-    * Question :
+    * Question :(https://www.codechef.com/LP1TO201/problems/CHFSPL)
         Chef has three spells. Their powers are A, B, and C respectively. Initially, Chef has 00 hit points, and
         if he uses a spell with power P, then his number of hit points increases by P.
         Before going to sleep, Chef wants to use exactly two spells out of these three. Find the maximum number of hit
