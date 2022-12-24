@@ -2,7 +2,7 @@
     * Author : VenkataPraveen Kandimalla
     * Date : 2022-11-30
     * Time : 11:46 p.m.
-    * Question :(https://www.codechef.com/LP1TO204/problems/MAXDIFF)
+        * Question :(https://www.codechef.com/LP1TO204/problems/MAXDIFF)
         Chef has gone shopping with his 5-year old son. They have bought N items so far. The items are numbered from
         1 to N, and the item i weighs W_i grams.
 
