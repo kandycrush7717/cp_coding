@@ -9,8 +9,7 @@
         Output: [1,2,3,5]
 '''
 
-
-def removeNthFromEnd(head:, n) :
+def removeNthFromEnd(head, n) :
     l = 0
     curr = head
     while curr != None:
